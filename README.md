@@ -6,6 +6,10 @@ Desenvolvedor de Software focado na construção de sistemas modernos, escaláve
 
 ### 🛠️ Tecnologias & Ferramental
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,aws,cloudflare,typescript,react,tailwind,git" alt="Tech Stack" />
+</p>
+
 #### **Backend & Cloud**
 ![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -48,8 +52,6 @@ Desenvolvedor de Software focado na construção de sistemas modernos, escaláve
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DanteNero007&theme=tokyonight&hide_border=true" alt="GitHub Streak & Total Contributions" />
-  <br /><br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanteNero007&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
 </div>
 
 ---
