@@ -44,13 +44,12 @@ Desenvolvedor de Software focado na construção de sistemas modernos, escaláve
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Consistência
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=DanteNero007&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanteNero007&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
+  <img src="https://streak-stats.demolab.com?user=DanteNero007&theme=tokyonight&hide_border=true" alt="GitHub Streak & Total Contributions" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com?user=DanteNero007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanteNero007&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
 </div>
 
 ---
