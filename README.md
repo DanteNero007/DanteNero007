@@ -58,4 +58,4 @@ Desenvolvedor de Software focado na construção de sistemas modernos, escaláve
 
 ### 📫 Conecte-se comigo
 - **E-mail:** [danielhenriquedhjpgithub@gmail.com](mailto:danielhenriquedhjpgithub@gmail.com)
-- **LinkedIn:** [linkedin.com/in/danielhenrique](https://www.linkedin.com)
+- **LinkedIn:** [linkedin.com/in/danielhenrique-dev](https://www.linkedin.com/in/danielhenrique-dev/)
